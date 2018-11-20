@@ -9,4 +9,5 @@ def loadFile():
     return rawRatings
 
 if __name__ == '__main__':
+
     loadFile()
